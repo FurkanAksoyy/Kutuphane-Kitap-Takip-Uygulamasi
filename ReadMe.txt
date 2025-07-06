@@ -107,3 +107,36 @@ Kütüphane işlemlerini yönetmek için geliştirilmiş masaüstü uygulaması.
    - Alt kısımdaki listede kendi rezervasyonlarınızı izleyin
    - Süresi geçmişse kırmızı renkle vurgulanır
 
+## 🗄 Veritabanı Yapısı
+
+- **Books**: Kitap bilgileri (ISBN, başlık, yazar, tür)
+- **Members**: Üye bilgileri ve hesap detayları
+- **Reservations**: Rezervasyon kayıtları
+- **Users**: Kullanıcı giriş bilgileri
+
+## 🛠 Sorun Giderme
+
+### Yaygın Sorunlar
+
+1. **Veritabanı Bağlantı Hatası**
+   - SQL Server servisinin çalıştığından emin olun
+   - Bağlantı dizesini kontrol edin
+
+2. **Giriş Yapamama**
+   - Verilen test hesaplarını kullanın
+   - Veritabanının doğru yüklendiğinden emin olun
+
+3. **Build Hataları**
+   - NuGet paketlerini geri yükleyin
+   - .NET Framework 4.7.2'nin kurulu olduğunu kontrol edin
+
+## 📞 İletişim
+
+**Sorularınız için**: furkanaksoy178@gmail.com
+
+### Destek
+- **E-posta**: furkanaksoy178@gmail.com  
+
+## 📄 Lisans
+
+Bu proje MIT Lisansı altında lisanslanmıştır.
