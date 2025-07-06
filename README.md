@@ -1,7 +1,5 @@
 # Kütüphane Kitap Takip Uygulaması
 
-![Kütüphane Yönetimi](images/library-logo.png)
-
 [![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.2-blue)](https://dotnet.microsoft.com/download/dotnet-framework)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-Express-red)](https://www.microsoft.com/sql-server)
 [![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Desktop-green)](https://docs.microsoft.com/dotnet/desktop/winforms)
