@@ -1,4 +1,4 @@
-Kütüphane Kitap Takip Uygulaması – ReadMe
+Kütüphane Kitap Takip Uygulaması 
 
 1. Çalıştırma Gereksinimleri
    - Windows 10/11
