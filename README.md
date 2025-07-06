@@ -107,23 +107,6 @@ Kütüphane işlemlerini yönetmek için geliştirilmiş masaüstü uygulaması.
    - Alt kısımdaki listede kendi rezervasyonlarınızı izleyin
    - Süresi geçmişse kırmızı renkle vurgulanır
 
-## 📷 Ekran Görüntüleri
-
-### Giriş Ekranı
-![Giriş Ekranı](images/login-screen.png)
-
-### Yönetici Paneli
-![Yönetici Paneli](images/admin-panel.png)
-
-### Kitap Yönetimi
-![Kitap Yönetimi](images/book-management.png)
-
-### Üye Paneli
-![Üye Paneli](images/member-panel.png)
-
-### Rezervasyon Takibi
-![Rezervasyon Takibi](images/reservation-tracking.png)
-
 ## 🗄 Veritabanı Yapısı
 
 - **Books**: Kitap bilgileri (ISBN, başlık, yazar, tür)
